@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding from local
+=======
+adding from remote
+>>>>>>> 6c962f76bebd3d021b6bae20123f5ad0cc0cc4ed
